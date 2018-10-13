@@ -1,2 +1,2 @@
-# UCI-Eats
-Best places to eat near UCI as a student
+# Project-One-T1
+A shared repo for first project 
